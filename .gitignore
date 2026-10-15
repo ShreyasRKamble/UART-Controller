@@ -1,0 +1,18 @@
+# Quartus generated databases and build output
+/db/
+/incremental_db/
+/output_files/
+
+# Questa compiled library and run output
+/work/
+/transcript
+/*.wlf
+/UART_16550.cr.mti
+/uart_16550_top.qws
+
+# Historical local snapshots are retained outside the public source tree
+/archive/backups/
+
+# Editor and OS noise
+Thumbs.db
+Desktop.ini
